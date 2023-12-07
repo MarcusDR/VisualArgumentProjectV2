@@ -2,6 +2,8 @@
 
 My visual argument displays a message I have enthusiasm for which is visiting a dark sky outside the city for stargazing.
 
+The reason I chose to redo my visual argument is because I was not satisfied with the previous attempt. One big thing I wanted to change about it was integrating actual images into the graphic and creating a "cleaner" result that is nicer on the eyes, and luckily, I think I fulfilled those goals.
+
 This time around I chose to create this in Affinity Photo rather than Gimp as I have experience using it so I found it much easier to get a satisfying result. I included the Affinity Photo file but since that may not be accessible, I included a screenshot of the layers used to create the visual argument. To remove the background of the galaxy I used the blend mode called "lighter," which is similar to the "screen" blend mode. 
 
 The screenshot titled "TextGlow" shows the glow I created around the text. To do this, I duplicated the text layer and added a Gaussian blur to the background text.
