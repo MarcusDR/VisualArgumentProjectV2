@@ -8,6 +8,8 @@ The screenshot titled "TextGlow" shows the glow I created around the text. To do
 
 The screenshot titled "LightPollutionEffect" uses a Gaussian blur on a triangle. I lowered the opacity of the triangle to let the stars be visible to create a light pollution effect. 
 
+To clean up the graphic I used the inpainting tool to remove stars that were visible in the silhouette of Pittsburgh. 
+
 
 Pittsburgh Skyline: https://www.cleanpng.com/png-pittsburgh-wall-decal-printing-skyline-art-1804116/
 
